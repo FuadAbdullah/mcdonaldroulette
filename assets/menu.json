@@ -1,0 +1,80 @@
+{
+  "menu" : [
+    {
+      "id": "1",
+      "name": "Ayam Goreng McD",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/zjxreNuMeXjcMMAjawLt.png"
+    },
+    {
+      "id": "2",
+      "name": "Big Mac",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/zXCw3DU1o1DM0crWjAWB.png"
+    },
+    {
+      "id": "3",
+      "name": "Quarter Pounder With Cheese",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/Yb9W3YJJ902V1vBIqacx.png"
+    },
+    {
+      "id": "4",
+      "name": "Double Quarter Pounder with Cheese",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/JMB9WT6539k7swuLfHRK.png"
+    },
+    {
+      "id": "5",
+      "name": "Beefburger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/dmJneyNJjgq0Vis1LkkG.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Cheeseburger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/tFUBKdDgTktmP1P807ag.png"
+    },
+    {
+      "id": "7",
+      "name": "Double Cheeseburger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/rsEVZNlajmultZkYkKrH.png"
+    },
+    {
+      "id": "8",
+      "name": "McChicken",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/eE1uNG6oOqBlJNH2KwMh.png"
+    },
+    {
+      "id": "9",
+      "name": "Spicy Chicken McDeluxe",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/lojYE6LgUCgHSTdBHxC1.png"
+    },
+    {
+      "id": "10",
+      "name": "Grilled Chicken Burger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/G3OrsrvAgUyxOxxoOngL.png"
+    },
+    {
+      "id": "11",
+      "name": "Chicken McNuggets",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/QEKk5m0lDuSdcl4mjyJP.png"
+    },
+    {
+      "id": "12",
+      "name": "Fillet-O-Fish",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/X6WipV5veOWLsMBlDHfe.png"
+    },
+    {
+      "id": "13",
+      "name": "Bubur Ayam McD",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/gqPL7937Jn9f5rGk7xlk.png"
+    },
+    {
+      "id": "14",
+      "name": "Smoky Grilled Beef",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/LhcUGre1wAn7lFspmq3B.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Nasi Lemak McD",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/0A9ma8ooopn8wwXtf3XD.jpg"
+    }
+  ]
+
+}
