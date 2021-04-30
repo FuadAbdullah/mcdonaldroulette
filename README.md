@@ -1,6 +1,6 @@
-# mcdonald_roulette
+# McDonald's Menu Roulette
 
-An application to display McDonald's menu.
+The purpose of this application is to display an item from McDonald's classic menu available in Malaysia. Hence the 'Roulette' in the name. 
 
 ## Getting Started
 

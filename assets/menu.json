@@ -3,77 +3,114 @@
     {
       "id": "1",
       "name": "Ayam Goreng McD",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/zjxreNuMeXjcMMAjawLt.png"
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/zjxreNuMeXjcMMAjawLt.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/ayam-goreng-mcd-regularspicy",
+      "desc": "Juicy and tasty!"
     },
     {
       "id": "2",
       "name": "Big Mac",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/zXCw3DU1o1DM0crWjAWB.png"
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/zXCw3DU1o1DM0crWjAWB.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/big-mac",
+      "desc": "Two all-beef patties with lettuce, onions, pickles, cheese and special sauce in a toasted sesame seed bun."
     },
     {
       "id": "3",
       "name": "Quarter Pounder With Cheese",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/Yb9W3YJJ902V1vBIqacx.png"
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/Yb9W3YJJ902V1vBIqacx.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/quarter-pounder",
+      "desc": "null"
     },
     {
       "id": "4",
       "name": "Double Quarter Pounder with Cheese",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/JMB9WT6539k7swuLfHRK.png"
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/JMB9WT6539k7swuLfHRK.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/double-quarter-pounder",
+      "desc": "null"
     },
     {
       "id": "5",
-      "name": "Beefburger",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/dmJneyNJjgq0Vis1LkkG.jpg"
+      "name": "Sweet Chili Fish Burger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/dmJneyNJjgq0Vis1LkkG.jpg",
+      "menurl": "https://www.mcdonalds.com.my/menu/sweet-chili-fish-burger",
+      "desc": "null"
     },
     {
       "id": "6",
-      "name": "Cheeseburger",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/tFUBKdDgTktmP1P807ag.png"
+      "name": "Beefburger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/RP2nRaLjr5fOxUPmqaYt.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/beefburger",
+      "desc": "Pure beef patty, onions, pickles, ketchup and mustard in a toasted bun."
     },
     {
       "id": "7",
-      "name": "Double Cheeseburger",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/rsEVZNlajmultZkYkKrH.png"
+      "name": "Cheeseburger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/tFUBKdDgTktmP1P807ag.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/cheeseburger",
+      "desc": "Complement the taste and pure Beef Burger with a slice of cheese."
     },
     {
       "id": "8",
-      "name": "McChicken",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/eE1uNG6oOqBlJNH2KwMh.png"
+      "name": "Double Cheeseburger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/rsEVZNlajmultZkYkKrH.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/double-cheeseburger",
+      "desc": "Two slices of cheese coupled with two tasty beef patties, the Double Cheeseburger is always a delight."
     },
     {
       "id": "9",
-      "name": "Spicy Chicken McDeluxe",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/lojYE6LgUCgHSTdBHxC1.png"
+      "name": "McChicken",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/eE1uNG6oOqBlJNH2KwMh.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/filet-o-fish",
+      "desc": "Your favorite chicken burger cooked to golden perfection topped with lettuce and special sauce."
     },
     {
       "id": "10",
-      "name": "Grilled Chicken Burger",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/G3OrsrvAgUyxOxxoOngL.png"
+      "name": "Spicy Chicken McDeluxe",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/eE1uNG6oOqBlJNH2KwMh.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/spicy-chicken-mcdeluxe",
+      "desc": "Specially marinated whole chicken thigh meat with a delightfully crispy coat, layered with fresh lettuce and special sauce in a corn meal bun."
     },
     {
       "id": "11",
-      "name": "Chicken McNuggets",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/QEKk5m0lDuSdcl4mjyJP.png"
+      "name": "Grilled Chicken Burger",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/G3OrsrvAgUyxOxxoOngL.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/gcb-grilled-chicken-burger",
+      "desc": "A delicious grilled chicken thigh, topped with crunchy iceberg lettuce and smoky chargrilled sauce, served in a toasted sesame seed bun."
     },
     {
       "id": "12",
-      "name": "Fillet-O-Fish",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/X6WipV5veOWLsMBlDHfe.png"
+      "name": "Chicken McNuggets",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/QEKk5m0lDuSdcl4mjyJP.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/chicken-mcnuggets",
+      "desc": "Crispy, boneless chicken breast and thigh meat chunks. Just the right size for a quick bite."
     },
     {
       "id": "13",
-      "name": "Bubur Ayam McD",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/gqPL7937Jn9f5rGk7xlk.png"
+      "name": "Fillet-O-Fish",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/X6WipV5veOWLsMBlDHfe.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/filet-o-fish",
+      "desc": "A classic favourite of a fish burger served with tartar sauce and cheddar cheese in a steamed bun."
     },
     {
       "id": "14",
-      "name": "Smoky Grilled Beef",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/LhcUGre1wAn7lFspmq3B.jpg"
+      "name": "Bubur Ayam McD",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/September2019/gqPL7937Jn9f5rGk7xlk.png",
+      "menurl": "https://www.mcdonalds.com.my/menu/bubur-ayam-mcd",
+      "desc": "Juicy chicken strips in mouth-watering porridge, garnished with spring onions, sliced ginger, fried shallots and diced chilies. Just like mum's cooking!"
     },
     {
       "id": "15",
+      "name": "Smoky Grilled Beef",
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/LhcUGre1wAn7lFspmq3B.jpg",
+      "menurl": "https://www.mcdonalds.com.my/menu/smoky-grilled-beef",
+      "desc": "null"
+    },
+    {
+      "id": "16",
       "name": "Nasi Lemak McD",
-      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/0A9ma8ooopn8wwXtf3XD.jpg"
+      "imgurl": "https://www.mcdonalds.com.my/storage/foods/November2020/0A9ma8ooopn8wwXtf3XD.jpg",
+      "menurl": "https://www.mcdonalds.com.my/menu/nasi-lemak-mcd",
+      "desc": "null"
     }
   ]
 
